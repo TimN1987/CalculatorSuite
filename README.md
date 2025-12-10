@@ -3,8 +3,8 @@
 A suite of calculators with different functionality, including for basic calculation, prime numbers and fractions.
 
 <img src="assets/basiccalc.jpg" alt="A screenshot of the basic calculator." width="600"/>
-<img arc="assets/primecalc.jpg" alt="A screenshot of the prime calculator." width="600"/>
-<img arc="assets/fractioncalc.jpg" alt="A screenshot of the fraction calculator." width="600"/>
+<img src="assets/primecalc.jpg" alt="A screenshot of the prime calculator." width="600"/>
+<img src="assets/fractioncalc.jpg" alt="A screenshot of the fraction calculator." width="600"/>
 
 ## ⚙️ Tech stack:
 
